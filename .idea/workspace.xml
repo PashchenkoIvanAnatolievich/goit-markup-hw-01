@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0cd146d9-a1f5-4797-a351-587766e49dca" name="Changes" comment="Create homework">
+    <list default="true" id="0cd146d9-a1f5-4797-a351-587766e49dca" name="Changes" comment="Fix homework">
+      <change afterPath="$PROJECT_DIR$/images/camila-garcia.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/daniel-wilson.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/mark-guerrero.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/tom-ford.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -58,6 +62,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -73,7 +82,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1760939990427</updated>
-      <workItem from="1760939991488" duration="1293000" />
+      <workItem from="1760939991488" duration="2080000" />
     </task>
     <task id="LOCAL-00001" summary="Create homework">
       <option name="closed" value="true" />
@@ -91,7 +100,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760940498711</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Fix homework">
+      <option name="closed" value="true" />
+      <created>1760941303465</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1760941303465</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -99,6 +116,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Create homework" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create homework" />
+    <MESSAGE value="Fix homework" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix homework" />
   </component>
 </project>
